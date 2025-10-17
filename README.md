@@ -3,11 +3,14 @@
   <h2>Desenvolvedor Front-End Júnior | Transformando Ideias em Experiências Digitais Modernas e Acessíveis</h2>
   
   <p>
+    <a href="https://mateusmacielrj.github.io/portifolio-mateus/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+    </a>
     <a href="https://www.linkedin.com/in/mateus-maciel-815b11303/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://mateusmacielrj.github.io/portifolio-mateus/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+    <a href="mailto:mateusmacielrj@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://wa.me/5521965890511" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -66,8 +69,7 @@ Confira alguns dos meus projetos que demonstram minhas habilidades de desenvolvi
   <a href="https://github.com/MateusMacielrj" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=MateusMacielrj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" alt="Estatísticas do GitHub">
   </a>
-  <a href="https://github.com/MateusMacielrj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&text_color=FFFFFF" alt="Linguagens Mais Usadas">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&text_color=FFFFFF" alt="Linguagens Mais Usadas">
   </a>
 </p>
 
@@ -85,6 +87,9 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
   </a>
   <a href="https://wa.me/5521965890511" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://mateusmacielrj.github.io/portifolio-mateus/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
