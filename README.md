@@ -3,14 +3,14 @@
   <h2>Desenvolvedor Front-End Júnior | Transformando Ideias em Experiências Digitais Modernas e Acessíveis</h2>
   
   <p>
-    <a href="https://www.linkedin.com/in/mateusmacielrj" target="_blank">
+    <a href="https://www.linkedin.com/in/mateus-maciel-815b11303/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://mateusmacielrj.github.io/portifolio-mateus/" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
     </a>
-    <a href="mailto:mateusmaciel.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://wa.me/5521965890511" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </p>
 </div>
@@ -77,14 +77,14 @@ Confira alguns dos meus projetos que demonstram minhas habilidades de desenvolvi
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateusmacielrj" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-maciel-815b11303/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:mateusmaciel.dev@gmail.com">
+  <a href="mailto:mateusmacielrj@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.instagram.com/mateus.maciel" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://wa.me/5521965890511" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
