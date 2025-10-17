@@ -13,6 +13,7 @@ Tenho atenção aos detalhes, gosto de transformar ideias em projetos concretos 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,44 +22,36 @@ Tenho atenção aos detalhes, gosto de transformar ideias em projetos concretos 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
 ## 💼 Projetos em Destaque
 
-### 🏋️‍♂️ Personal Trainer
-[🔗 Ver Projeto](https://mateusmacielrj.github.io/projeto-leo/)  
-📂 [Repositório](https://github.com/MateusMacielrj/projeto-leo)  
-Design responsivo, moderno e com foco na experiência do usuário.
-
----
-
-### 🥗 Nutricionista
-[🔗 Ver Projeto](https://mateusmacielrj.github.io/projeto-nutricionista/)  
-📂 [Repositório](https://github.com/MateusMacielrj/projeto-nutricionista)  
-Página leve e funcional, focada em empatia e credibilidade.
-
----
-
-### 🌐 Portfólio Pessoal
-[🔗 Ver Projeto](https://mateusmacielrj.github.io/portifolio-mateus/)  
-📂 [Repositório](https://github.com/MateusMacielrj/portifolio-mateus)  
-Portfólio completo mostrando habilidades, projetos e contato.
+| Projeto | Descrição | Link | Repositório |
+|---------|-----------|------|-------------|
+| 🏋️‍♂️ **Personal Trainer** | Página responsiva e moderna conectando Personal Trainers a seus alunos | [Ver Projeto](https://mateusmacielrj.github.io/projeto-leo/) | [GitHub](https://github.com/MateusMacielrj/projeto-leo) |
+| 🥗 **Nutricionista** | Página funcional e elegante voltada para nutricionistas | [Ver Projeto](https://mateusmacielrj.github.io/projeto-nutricionista/) | [GitHub](https://github.com/MateusMacielrj/projeto-nutricionista) |
+| 🌐 **Portfólio Pessoal** | Meu portfólio completo mostrando habilidades, projetos e contato | [Ver Projeto](https://mateusmacielrj.github.io/portifolio-mateus/) | [GitHub](https://github.com/MateusMacielrj/portifolio-mateus) |
 
 ---
 
 ## 📊 Estatísticas do GitHub
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMacielrj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateusMacielrj&theme=tokyonight)
 
+</div>
+
 ---
 
 ## 📬 Contato
-📧 mateusmaciel.dev@gmail.com  
-🌐 [Portfólio](https://mateusmacielrj.github.io/portifolio-mateus/)  
-💼 [LinkedIn](https://www.linkedin.com/in/mateusmacielrj)  
-📸 [Instagram](https://www.instagram.com/mateus.maciel)
+- 📧 Email: mateusmaciel.dev@gmail.com  
+- 🌐 Portfólio: [mateusmacielrj.github.io/portifolio-mateus/](https://mateusmacielrj.github.io/portifolio-mateus/)  
+- 💼 LinkedIn: [linkedin.com/in/mateusmacielrj](https://www.linkedin.com/in/mateusmacielrj)  
+- 📸 Instagram: [@mateus.maciel](https://www.instagram.com/mateus.maciel)
 
 ---
 
