@@ -1,75 +1,58 @@
 <h1 align="center">👋 Olá, eu sou o Mateus Maciel</h1>
 
 <p align="center">
-💻 <b>Desenvolvedor Front-End Júnior</b> apaixonado por transformar ideias em experiências digitais modernas e funcionais.<br>
-🎯 Sempre aprendendo, evoluindo e buscando entregar o melhor resultado em cada projeto.
+💻 Desenvolvedor Front-End Júnior apaixonado por criar experiências digitais envolventes.<br>
+🎯 Busco minha primeira oportunidade profissional na área para evoluir cada vez mais.<br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi) e sempre aprendendo algo novo.
 </p>
 
 ---
 
-## 🧠 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Uniasselvi  
-- 🧩 Experiência com **React**, **JavaScript**, **HTML5** e **CSS3**  
-- 🚀 Apaixonado por tecnologia, design e por criar interfaces que conectam pessoas  
-- 💡 Acredito que cada projeto é uma oportunidade de crescer e inspirar outros  
-
----
-
-## 💼 Projetos em Destaque
-
-### 🏋️‍♂️ [Landing Page de Personal Trainer](https://mateusmacielrj.github.io/projeto-leo/)
-Experiência digital que conecta Personal Trainers a seus futuros alunos com **estilo, clareza e performance**.  
-> 🧠 **Tecnologias:** React • CSS • JavaScript  
-> 🎨 **Destaques:** Design responsivo, layout moderno e foco em experiência do usuário.  
-> 📂 **Repositório:** [Ver código no GitHub](https://github.com/MateusMacielrj/projeto-leo)
-
----
-
-### 🥗 [Landing Page de Nutricionista](https://mateusmacielrj.github.io/projeto-nutricionista/)
-Site profissional e acolhedor voltado para nutricionistas, destacando **serviços, valores e contato**.  
-> 🧠 **Tecnologias:** React • CSS • JavaScript  
-> 🎨 **Destaques:** Layout leve, responsivo e com foco em empatia e credibilidade.  
-> 📂 **Repositório:** [Ver código no GitHub](https://github.com/MateusMacielrj/projeto-nutricionista)
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
+### 🛠️ Tecnologias e Ferramentas
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 💼 Projetos em Destaque
 
-<div align="center">
-
-![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMacielrj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
-
-</div>
+#### 🏋️‍♂️ Landing Page - Personal Trainer
+Experiência digital moderna e responsiva para conectar Personal Trainers a seus futuros alunos.  
+🔗 **Acesse:** [Personal Trainer](https://mateusmacielrj.github.io/projeto-leo/)  
+📂 **Repositório:** [GitHub](https://github.com/MateusMacielrj/projeto-leo)
 
 ---
 
-## 📫 Onde me encontrar
+#### 🥗 Landing Page - Nutricionista
+Página elegante e funcional desenvolvida com foco em nutrição e bem-estar.  
+🔗 **Acesse:** [Nutricionista](https://mateusmacielrj.github.io/projeto-nutricionista/)  
+📂 **Repositório:** [GitHub](https://github.com/MateusMacielrj/projeto-nutricionista)
 
-📧 **E-mail:** [mateusmacielrj@gmail.com](mailto:mateusmacielrj@gmail.com)  
-🌐 **Portfólio:** [mateusmacielrj.github.io/novo-portifolio-mateus](https://mateusmacielrj.github.io/novo-portifolio-mateus)  
-💼 **LinkedIn:** [linkedin.com/in/mateusmacielrj](https://linkedin.com/in/mateusmacielrj)  
-📸 **Instagram:** [@mateus.maciel](https://www.instagram.com/mateus.maciel)
+---
+
+#### 🌐 Portfólio Pessoal
+Meu portfólio completo, mostrando meus projetos, habilidades e contatos de forma interativa.  
+🔗 **Acesse:** [Portfólio Mateus](https://mateusmacielrj.github.io/portifolio-mateus/)  
+📂 **Repositório:** [GitHub](https://github.com/MateusMacielrj/portifolio-mateus)
+
+---
+
+### 📬 Contato
+<p align="center">
+📧 mateusmaciel.dev@gmail.com<br>
+🌐 [Portfólio](https://mateusmacielrj.github.io/portifolio-mateus/)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/mateusmacielrj)
+</p>
 
 ---
 
 <p align="center">
-✨ <i>"Aprender, criar e evoluir todos os dias."</i> ✨
+✨ “A tecnologia é o que transforma sonhos em realidade.” ✨
 </p>
