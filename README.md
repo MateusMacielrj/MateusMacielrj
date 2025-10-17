@@ -24,9 +24,18 @@
 Sou **Mateus Maciel**, um desenvolvedor Front-End Júnior com paixão por criar interfaces intuitivas e experiências de usuário envolventes.
 
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, e minha jornada é focada em:
-* **Qualidade e Detalhe:** Tenho um olhar atento para a usabilidade e estética, garantindo que o design se traduza em um código limpo e pixel-perfect.
+* **Qualidade e Detalhe:** Tenho um olhar atento para a usabilidade e estética, garantindo que o design se traduza em um código limpo e *pixel-perfect*.
 * **Aprendizado Contínuo:** Estou sempre em busca de novas tecnologias e melhores práticas para desenvolver soluções web modernas e de alto desempenho.
 * **Transformação:** Amo o processo de pegar uma ideia e transformá-la em um projeto funcional e concreto no mundo digital.
+
+---
+
+## 🎯 Objetivos Profissionais
+Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior, com foco em:
+
+* **Atuar com React:** Aplicar e aprofundar meus conhecimentos na criação de aplicações web modernas e escaláveis utilizando a biblioteca React.
+* **Acessibilidade e Usabilidade:** Desenvolver interfaces que sejam não apenas visualmente agradáveis, mas também acessíveis (A11Y) e que ofereçam a melhor experiência de usuário.
+* **Colaboração:** Integrar uma equipe onde eu possa contribuir ativamente, trocar conhecimento e crescer profissionalmente no ecossistema Front-End.
 
 ---
 
@@ -48,6 +57,16 @@ Minhas principais ferramentas para construir a web:
 
 ---
 
+## 🧠 Aprendendo Atualmente (Em Expansão)
+Focado em evoluir para um desenvolvedor mais completo, estou dedicando tempo ao estudo de:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+---
+
 ## 💻 Projetos em Destaque
 Confira alguns dos meus projetos que demonstram minhas habilidades de desenvolvimento, responsividade e foco no design:
 
@@ -65,12 +84,14 @@ Confira alguns dos meus projetos que demonstram minhas habilidades de desenvolvi
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
+Minha atividade e desempenho na plataforma:
+
 <p align="center">
-  <a href="https://github.com/MateusMacielrj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=MateusMacielrj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" alt="Estatísticas do GitHub">
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&text_color=FFFFFF" alt="Linguagens Mais Usadas">
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusMacielrj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&count_private=true" alt="Estatísticas do GitHub"/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMacielrj&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=61DAFB&text_color=FFFFFF" alt="Linguagens Mais Usadas"/>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusMacielrj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&title_color=61DAFB&ring_color=61DAFB" alt="GitHub Streak"/>
 </p>
 
 ---
